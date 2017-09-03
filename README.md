@@ -16,3 +16,5 @@ to view it in action, in OCTAVE/Matlab:
 
 That's it!
 You shall see randomly picked data from the dataset as a popup and the infered digit in the terminal. Enter continues it, q and Enter quits the sequence. 
+
+![alt text](https://raw.githubusercontent.com/goyal-sidd/digit-recognition/blob/master/digit.png)
